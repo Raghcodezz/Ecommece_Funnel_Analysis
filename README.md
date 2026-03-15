@@ -85,3 +85,27 @@ Cart abandonment rates are almost similar across all devices. This indicates tha
 Cart abandonment rates are almost similar across all referral sources. This indicates that the issue is not limited to a specific segment, but rather a universal problem such as complex UI/UX, a complicated checkout process, or high prices that may be causing customers to abandon their carts.
 
 ![image](https://github.com/Raghcodezz/Ecommece_Funnel_Analysis/blob/611bac97f2d0d3ec13acf1a7cc9e7656cb56b542/cart%20abandonment%20rate%20by%20referral%20source.png)
+
+
+### Top Insights
+
+- The biggest drop occurs on the product page, where almost 60% of customers drop off.
+- Buyers spend more time on the platform compared to non-buyers, indicating that improving content and engagement could help keep users interested and increase conversion chances.
+- More items added to the cart are associated with higher conversion rates.
+- Visitors coming from direct traffic and Google are more likely to convert and complete a purchase.
+- Cart abandonment rates are similar across all referral sources and devices, indicating the issue is not limited to a specific segment. The problem may be related to factors such as high pricing, poor UI/UX, or a complex checkout process.
+
+
+### Business Impact
+
+- Improved Conversion Rate: Identifying the major drop-off at the product page helps prioritise UX improvements that could reduce the 60% drop-off and increase conversions.
+- Higher marketing ROI: Focussing and promoting more marketing campaigns in referral sources like direct and google can increase converions easily.
+- Better Customer Experience: Fixing complex UI/UX issues and simplifying the user journey can further reduce cart abandonment rates and increase conversion rates.
+
+
+### Future Improvements
+
+- If more data becomes available, the analysis can be extended to evaluate conversion rates across product categories, age groups, gender, and geographic segments (such as Tier 1, Tier 2, and Tier 3 cities).
+
+- Build a machine learning model to predict in advance where users are most likely to drop off in the funnel.
+
