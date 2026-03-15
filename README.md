@@ -25,5 +25,63 @@ The conversion rate is not constant through out the year. The highest conversion
 ![image](https://github.com/Raghcodezz/Ecommece_Funnel_Analysis/blob/27caf6431e71d3a9592a4cc2a7652964ec370c0a/Converison%20per%20Month.png)
 
 
-### 
+### Funnel Analysis
 
+In the funnel analysis we can clearly observe that there is a problem in product page. Most of the users drop off at this stage of funnel from 79% to 32% (59% decrease). This could be due to unclear product listings, higher prices, limited options to choose. This bring down the revenue drastically and this can be fixed by fixing the prices, providing clear listing and options which could help the users continue to cart and complete the purchase.
+
+![image](https://github.com/Raghcodezz/Ecommece_Funnel_Analysis/blob/611bac97f2d0d3ec13acf1a7cc9e7656cb56b542/Funnel%20Drop%202.png)
+
+
+### Average Time to Conversion
+
+People who end up purchasing a product spend more time in the application (around 388 sec) when compared to a non-buyer (around 114 sec). This shows higher engagement rate often leads to higher conversion. Encouraging users to explore more pages or interact longer can improve their chances of making a purchase.
+
+
+| Purchased       | Session Duration (seconds) |
+|:----------------|:---------------------------|
+| 0 (Not Purchased) | 114.00                     |
+| 1 (Purchased)   | 388.24                     |
+
+
+### Conversion rate by country
+
+France has the highest conversion rate, meaning people there are more likely to buy after visiting the site. Countries like the USA, India, and the UK are not far behind — all show similar buying patterns.
+
+![image](https://github.com/Raghcodezz/Ecommece_Funnel_Analysis/blob/611bac97f2d0d3ec13acf1a7cc9e7656cb56b542/Conversion%20rate%20by%20country.png)
+
+
+### Conversion rate by items in cart
+
+Users who add more number of items to their cart are more likely to make a purchase more than those with 1 or 2 items in cart.
+
+![image](https://github.com/Raghcodezz/Ecommece_Funnel_Analysis/blob/611bac97f2d0d3ec13acf1a7cc9e7656cb56b542/Conversion%20rate%20by%20itemsincart.png)
+
+Customers with 3 items in the cart show highest conversion rate (around 54%).
+
+
+### Conversion Rate by Referral Source
+
+Visitors from Google and Direct sources convert slightly better than visitors from other sources. This indicates people who search for the application in google or access the application are more likely to make a purchase. So we need to optimize SEO more in these two sources to attract more people.
+
+![image](https://github.com/Raghcodezz/Ecommece_Funnel_Analysis/blob/611bac97f2d0d3ec13acf1a7cc9e7656cb56b542/Conversion%20rate%20by%20referral%20source.png)
+
+
+### Time on each page by Buyers and Non Buyers
+
+Both buyers and non-buyers spend almost equal time on each page. This indicates that keeping the customer hooked for long time doesn't gurantee a purchase. What really matters is quality and clarity of the content.
+
+![image](https://github.com/Raghcodezz/Ecommece_Funnel_Analysis/blob/611bac97f2d0d3ec13acf1a7cc9e7656cb56b542/avg%20time%20spend%20by%20buyer%20and%20non%20buyer.png)
+
+
+### Cart Abandonment rate by device
+
+Cart abandonment rates are almost similar across all devices. This indicates that the issue is not limited to a specific segment, but rather a universal problem such as complex UI/UX, a complicated checkout process, or high prices that may be causing customers to abandon their carts.
+
+![image](https://github.com/Raghcodezz/Ecommece_Funnel_Analysis/blob/611bac97f2d0d3ec13acf1a7cc9e7656cb56b542/cart%20abandonment%20rate%20by%20device.png)
+
+
+### Cart Abandonment rate by Referral Source
+
+Cart abandonment rates are almost similar across all referral sources. This indicates that the issue is not limited to a specific segment, but rather a universal problem such as complex UI/UX, a complicated checkout process, or high prices that may be causing customers to abandon their carts.
+
+![image](https://github.com/Raghcodezz/Ecommece_Funnel_Analysis/blob/611bac97f2d0d3ec13acf1a7cc9e7656cb56b542/cart%20abandonment%20rate%20by%20referral%20source.png)
